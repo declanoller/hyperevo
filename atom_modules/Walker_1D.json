@@ -1,0 +1,9 @@
+{
+    "Name": "Walker_1D",
+    "N_inputs": 2,
+    "N_outputs": 2,
+    "atom_function_vec": [
+        "0.400248300964889*a_0 - 0.400639152696276*a_1",
+        "0"
+    ]
+}
